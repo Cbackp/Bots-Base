@@ -253,9 +253,9 @@ body {
 @media (max-width: 500px) {
     .bot-description {
         max-width: 90%;
-        margin-left: 0;       /* إزالة المسافة عن الصورة */
+        margin-left: 0;       
         font-size: 1rem;
-        text-align: center;   /* لجعل النص متوسط على الهاتف */
+        text-align: center; 
     }
 
     .bot-description h1 {
@@ -303,7 +303,7 @@ body {
 .copyright1,
 .copyright2 {
     color: #4d9dff; 
-    font-weight: bold; /* اختياري لإبراز الحروف */
+    font-weight: bold; 
 }
 
 @media (max-width: 500px) {

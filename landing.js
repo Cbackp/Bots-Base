@@ -37,7 +37,7 @@ var creditCardAnim = lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: 'Animations/Credit-Card.json'  // ضع هنا المسار الصحيح لملف JSON
+  path: 'Animations/Credit-Card.json'  
 });
 
 
